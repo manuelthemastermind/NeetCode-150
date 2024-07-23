@@ -20,11 +20,3 @@ public:
 
       }  
 };
-
-int main()
-{
-    Solution solution;
-
-    std::vector <int> Vect = {1,2,3,4};
-   std::cout << solution.containsduplicates(Vect);
-}
