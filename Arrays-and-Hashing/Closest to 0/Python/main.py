@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
         closest = nums[0]

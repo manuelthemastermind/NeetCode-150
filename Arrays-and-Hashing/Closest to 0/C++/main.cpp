@@ -1,8 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <cmath>
-#include <algorithm>
-
 class Solution {
 public:
     int findClosestNumber(std::vector<int>& nums) 
